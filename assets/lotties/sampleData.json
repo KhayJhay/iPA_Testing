@@ -1,0 +1,1318 @@
+{
+  "users": [
+    {
+      "id": "user001",
+      "userType": "public",
+      "userDetails": {
+        "name": "Maxwell Arthur",
+        "OTP": "04216",
+        "card": "GHA-7834879-0",
+        "phoneNumber": "233547232044",
+        "email": "maxarthur@mailinator.com"
+      },
+      "reservedNames": [
+        {
+          "companyName": "Nipa Foods",
+          "entityType": "Business Name",
+          "sectors": ["Food Industry", "Agriculture"],
+          "isicCodes": [
+            { "value": "0146", "label": "Raising of poultry" },
+            { "value": "0123", "label": "Growing of citrus fruits" }
+          ],
+          "objectsOfCompany": "Growing of food and stuff"
+        },
+        {
+          "companyName": "Adanfo Mines",
+          "entityType": "Partnership",
+          "sectors": ["Quarry / Mining", "Refinery of Minerals"],
+          "isicCodes": [
+            {
+              "value": "06",
+              "label": "Extraction of crude petroleum and natural gas"
+            },
+            { "value": "07", "label": "Mining of metal ores" }
+          ],
+          "objectsOfCompany": "Growing of food and stuff"
+        }
+      ],
+      "queries": [],
+      "applications": [],
+      "entities": [
+        {
+          "companyType": "Business Name Registration",
+          "companyDetails": {
+            "companyName": "Munskin Ventures",
+            "sectors": ["Food Industry", "Agriculture"],
+            "isicCodes": [
+              { "value": "0146", "label": "Raising of poultry" },
+              { "value": "0123", "label": "Growing of citrus fruits" }
+            ],
+            "natureOfBusiness": "Growing of food and selling",
+            "dateOfCommencement": "2023-04-02"
+          },
+          "registeredOfficeAddress": {
+            "digitalAddress": "GA-1234-56",
+            "houseNumber": "10",
+            "streetName": "High Street",
+            "city": "Accra",
+            "district": "Ablekuma",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": true,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": true,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GA-1234-56",
+            "houseNumber": "10",
+            "streetName": "High Street",
+            "city": "Accra",
+            "district": "Ablekuma",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+          "postalAddress": {
+            "type": "Post Office Box",
+            "number": "CT - 2345",
+            "town": "Cantonments",
+            "region": "Greater Accra"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (0) 244 123456",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "+233 (54) 123 4567",
+            "mobileNumber_2": "",
+            "fax": "+233 (0) 244 123457",
+            "emailAddress": "info@awesomecompany.com",
+            "website": "https://www.awesomecompany.com"
+          },
+          "proprietorDetails": {
+            "personalInformation": {
+              "title": "Mr",
+              "sex": "Male",
+              "firstName": "John",
+              "lastName": "Geshin",
+              "dateOfBirth": "1990-04-21",
+              "formerName": "Mashun",
+              "nationality": "Ghanaian",
+              "occupation": "Entrepreneur",
+              "ghanaCard": "GHA-00021-64",
+              "tin": "P0000001"
+            },
+            "contact": {
+              "mobileNumber_1": "+233 (54) 123 4567",
+              "mobileNumber_2": "",
+              "fax": "+233 (0) 244 123457",
+              "emailAddress": "info@awesomecompany.com"
+            }
+          },
+          "proprietorAddress": {
+            "digitalAddress": "GA-1234-56",
+            "houseNumber": "10",
+            "streetName": "High Street",
+            "city": "Accra",
+            "district": "Ablekuma",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "msmeDetails": {
+            "revenueEnvisaged": "200000",
+            "noOfEmployeesEnvisaged": "10",
+            "businessOperatingPermit": "BOP-01"
+          }
+        },
+        {
+          "companyType": "Company Limited By Shares",
+          "companyDetails": {
+            "constitution": "Standard Constitution",
+            "constitutionFile": null,
+            "name": "Awesome Company Ltd",
+            "endingWith": "Ltd",
+            "sectors": ["Mining"],
+            "isicCode": [
+              { "value": "0610", "label": "Exploration for crude petroleum" }
+            ],
+            "natureOfBusiness": "Software Development"
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-123456-78",
+            "houseNumber": "25",
+            "streetName": "Walker Bush Street",
+            "city": "Cantonments",
+            "district": "Kokompe",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": false,
+          "hasOtherPlaceOfBussiness": true,
+          "sameRegisteredMemberAddress": false,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "US-123456-78",
+            "houseNumber": "25",
+            "streetName": "Main Street",
+            "city": "Tesano",
+            "district": "Financial District",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [
+            {
+              "digitalAddress": "US-876543-21",
+              "houseNumber": "101",
+              "streetName": "Industrial Avenue",
+              "city": "Newtown",
+              "district": "West Oakland",
+              "region": "Greater Accra",
+              "country": "Ghana"
+            }
+          ],
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-987654-32",
+            "houseNumber": "5",
+            "streetName": "Wall Street",
+            "city": "New York",
+            "district": "Manhattan",
+            "region": "New York",
+            "country": "United States"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "123",
+            "town": "San Francisco",
+            "region": "California"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+1 (415) 555-1234",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+1 (415) 789-0123",
+            "fax": "+1 (415) 555-1235",
+            "emailAddress": "info@greensolutions.com",
+            "website": ""
+          },
+          "directors": [
+            {
+              "name": "Alice Johnson",
+              "email": "alice.johnson@greensolutions.com",
+              "phone": "+1 (415) 234-5678"
+            },
+            {
+              "name": "David Wang",
+              "email": "david.wang@greensolutions.com",
+              "phone": "+1 (650) 987-6543"
+            }
+          ],
+          "secretaryType": "Corporate",
+          "individualSecretary": null,
+          "corportateSecretary": {
+            "corporateName": "Secretarial Services Ltd.",
+            "representativeName": "Michael Brown",
+            "representativeEmail": "michael.brown@secretarialservices.com",
+            "representativePhone": "+1 (800) 555-1212"
+          },
+          "attestation": {
+            "role": "Director",
+            "name": "David Wang"
+          },
+          "auditor": {
+            "name": "Deloitte",
+            "tin": "C0000001",
+            "digitalAddress": "GHA-123456-78",
+            "firmAddress": "DEL-009932",
+            "streetName": "Dzorwula Great",
+            "city": "Accra",
+            "district": "Ayawaso West Municipal District",
+            "region": "Greater Accra"
+          },
+
+          "sharesAndCapital": {
+            "authorizedShares": "1000000",
+            "statedCapital": "5000000",
+            "authorizedSharesOfEachClass": {
+              "equityShares": "800000",
+              "preferenceShares": "200000"
+            },
+            "issuedSharesOfEachClass": {
+              "equityShares": "600000",
+              "preferenceShares": "150000"
+            },
+            "amountPaidInCashOfEachClass": {
+              "equityShares": "3000000",
+              "preferenceShares": "1000000"
+            },
+            "amountPaidOtherwiseThanInCashOfEachClass": {
+              "equityShares": "500000",
+              "preferenceShares": "200000"
+            },
+            "amountRemainingToBePaidOnEachClass": {
+              "equityShares": "500000",
+              "preferenceShares": "100000"
+            }
+          },
+
+          "subscribers": [
+            {
+              "name": "Alice Johnson",
+              "email": "alice.johnson@greensolutions.com",
+              "phoneNumber": "+1 (415) 234-5678",
+              "subscriberType": "Individual Subscriber"
+            },
+            {
+              "name": "David Wang",
+              "email": "david.wang@greensolutions.com",
+              "phoneNumber": "+1 (650) 987-6543",
+              "subscriberType": "Individual Subscriber (InTrust)"
+            }
+          ],
+          "beneficialOwners": [
+            {
+              "boType": "Natural Person",
+              "name": "Samuel Laryea",
+              "email": "samlar@gmail.com",
+              "phoneNumber": "233507368112"
+            },
+            {
+              "boType": "Listed Company",
+              "name": "Babosa Inc",
+              "email": "bab@gmail.com",
+              "phoneNumber": "2335073684542"
+            }
+          ],
+          "regulatoryRequirements": {
+            "revenueEnvisaged": "200000",
+            "noOfEmployeesEnvisaged": "10",
+            "boNumber": "BO-23432"
+          }
+        },
+        {
+          "companyType": "Public Company Unlimited By Shares",
+          "companyDetails": {
+            "constitution": "Registred Constitution",
+            "constitutionFile": null,
+            "name": "Ace Bison Limited Company",
+            "endingWith": "Limited Company",
+            "sectors": ["Security"],
+            "isicCode": [
+              {
+                "value": "8010",
+                "label": "Provision of guard and patrol services"
+              }
+            ],
+            "natureOfBusiness": "Provision of Private Security Services"
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-123456-78",
+            "houseNumber": "25",
+            "streetName": "Atta Mills Street",
+            "city": "Adabraka",
+            "district": "Ga West",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": false,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": false,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "US-123456-78",
+            "houseNumber": "25",
+            "streetName": "Main Street",
+            "city": "Habavana",
+            "district": "Okaikoi South",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-987654-32",
+            "houseNumber": "10",
+            "streetName": "Block Street",
+            "city": "Ashaiman",
+            "district": "Odododiodoo",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "123",
+            "town": "San Francisco",
+            "region": "California"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (415) 555-1234",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+233 (415) 789-0123",
+            "fax": "+233 (415) 555-1235",
+            "emailAddress": "info@greensolutions.com",
+            "website": ""
+          },
+          "directors": [
+            {
+              "name": "Steve Johnson",
+              "email": "alice.johnson@greensolutions.com",
+              "phone": "+233 (415) 234-5678"
+            },
+            {
+              "name": "David Shangton",
+              "email": "david.wang@greensolutions.com",
+              "phone": "+233 (650) 987-6543"
+            }
+          ],
+          "secretaryType": "Individual",
+          "individualSecretary": {
+            "name": "Maxwell Darko",
+            "email": "maxdark@mailinator.com",
+            "phoneNumber": "+2332463435087"
+          },
+          "corportateSecretary": null,
+          "auditor": {
+            "licenceNumber": "AUD-32492343"
+          },
+          "sharesAndCapital": {
+            "authorizedShares": "1000000",
+            "statedCapital": "5000000",
+            "authorizedSharesOfEachClass": {
+              "equityShares": "800000",
+              "preferenceShares": "200000"
+            },
+            "issuedSharesOfEachClass": {
+              "equityShares": "600000",
+              "preferenceShares": "150000"
+            },
+            "amountPaidInCashOfEachClass": {
+              "equityShares": "3000000",
+              "preferenceShares": "1000000"
+            },
+            "amountPaidOtherwiseThanInCashOfEachClass": {
+              "equityShares": "500000",
+              "preferenceShares": "200000"
+            },
+            "amountRemainingToBePaidOnEachClass": {
+              "equityShares": "500000",
+              "preferenceShares": "100000"
+            }
+          },
+          "subscribers": [
+            {
+              "name": "Alice Johnson",
+              "email": "alice.johnson@greensolutions.com",
+              "phoneNumber": "+1 (415) 234-5678",
+              "subscriberType": "Individual Subscriber"
+            },
+            {
+              "name": "David Wang",
+              "email": "david.wang@greensolutions.com",
+              "phoneNumber": "+1 (650) 987-6543",
+              "subscriberType": "Individual Subscriber (InTrust)"
+            }
+          ],
+          "beneficialOwners": [
+            {
+              "boType": "Natural Person",
+              "name": "Samuel Laryea",
+              "email": "samlar@gmail.com",
+              "phoneNumber": "233507368112"
+            },
+            {
+              "boType": "Listed Company",
+              "name": "Babosa Inc",
+              "email": "bab@gmail.com",
+              "phoneNumber": "2335073684542"
+            }
+          ],
+          "regulatoryRequirements": {
+            "revenueEnvisaged": "200000",
+            "noOfEmployeesEnvisaged": "10",
+            "boNumber": "BO-23432"
+          }
+        },
+        {
+          "companyType": "Public Company Limited By Shares",
+          "companyDetails": {
+            "constitution": "Standard Constitution",
+            "constitutionFile": null,
+            "name": "Kwaders PLC",
+            "endingWith": "PLC",
+            "sectors": ["Entertainment"],
+            "isicCode": [
+              {
+                "value": "9000",
+                "label": "Operation of concert halls and theatres"
+              }
+            ],
+            "natureOfBusiness": "Operation and rental of theathers, events centers etc"
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-123456-78",
+            "houseNumber": "25",
+            "streetName": "Atta Mills Street",
+            "city": "Adabraka",
+            "district": "Ga West",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": false,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": false,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GH-123456-78",
+            "houseNumber": "25",
+            "streetName": "Main Street",
+            "city": "Habavana",
+            "district": "Okaikoi South",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-987654-32",
+            "houseNumber": "10",
+            "streetName": "Block Street",
+            "city": "Ashaiman",
+            "district": "Odododiodoo",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "123",
+            "town": "San Francisco",
+            "region": "California"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (415) 555-1234",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+233 (415) 789-0123",
+            "fax": "+233 (415) 555-1235",
+            "emailAddress": "info@greensolutions.com",
+            "website": ""
+          },
+          "directors": [
+            {
+              "name": "Teddy Kwam",
+              "email": "teddy.kwam@greensolutions.com",
+              "phone": "+233241525678"
+            },
+            {
+              "name": "Nerrisa Mensah",
+              "email": "nerrisa.mens@greensolutions.com",
+              "phone": "+2332345456543"
+            }
+          ],
+          "secretaryType": "Individual",
+          "individualSecretary": {
+            "name": "Maxwell Darko",
+            "email": "maxdark@mailinator.com",
+            "phoneNumber": "+2332463435087"
+          },
+          "attestation": {
+            "role": "Director",
+            "name": "David Wang"
+          },
+          "auditor": {
+            "licenceNumber": "AUD-32492343"
+          },
+          "sharesAndCapital": {
+            "authorizedShares": "1000000",
+            "statedCapital": "5000000",
+            "authorizedSharesOfEachClass": {
+              "equityShares": "800000",
+              "preferenceShares": "200000"
+            },
+            "issuedSharesOfEachClass": {
+              "equityShares": "600000",
+              "preferenceShares": "150000"
+            },
+            "amountPaidInCashOfEachClass": {
+              "equityShares": "3000000",
+              "preferenceShares": "1000000"
+            },
+            "amountPaidOtherwiseThanInCashOfEachClass": {
+              "equityShares": "500000",
+              "preferenceShares": "200000"
+            },
+            "amountRemainingToBePaidOnEachClass": {
+              "equityShares": "500000",
+              "preferenceShares": "100000"
+            }
+          },
+          "subscribers": [
+            {
+              "name": "Mimi Hanson",
+              "email": "mimi.hans@greensolutions.com",
+              "phoneNumber": "+1 (415) 234-5678",
+              "subscriberType": "Individual Subscriber"
+            }
+          ],
+          "beneficialOwners": [
+            {
+              "boType": "Natural Person",
+              "name": "Samuel Laryea",
+              "email": "samlar@gmail.com",
+              "phoneNumber": "233507368112"
+            },
+            {
+              "boType": "Listed Company",
+              "name": "Babosa Inc",
+              "email": "bab@gmail.com",
+              "phoneNumber": "2335073684542"
+            }
+          ],
+          "regulatoryRequirements": {
+            "revenueEnvisaged": "200000",
+            "noOfEmployeesEnvisaged": "10",
+            "boNumber": "BO-23432"
+          }
+        },
+        {
+          "companyType": "Private Company Limited By Guarantee",
+          "companyDetails": {
+            "constitution": "Standard Constitution",
+            "constitutionFile": null,
+            "name": "Axemen LBG",
+            "endingWith": "LBG",
+            "sectors": ["Entertainment"],
+            "isicCode": [
+              {
+                "value": "9499",
+                "label": "Community and social advocacy"
+              }
+            ],
+            "natureOfBusiness": "Community and social outreach programs to help boys."
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-123456-78",
+            "houseNumber": "25",
+            "streetName": "Atta Mills Street",
+            "city": "Adabraka",
+            "district": "Ga West",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": false,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": false,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GH-123456-78",
+            "houseNumber": "25",
+            "streetName": "Main Street",
+            "city": "Habavana",
+            "district": "Okaikoi South",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-987654-32",
+            "houseNumber": "10",
+            "streetName": "Block Street",
+            "city": "Ashaiman",
+            "district": "Odododiodoo",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "123",
+            "town": "Korle Gornno",
+            "region": "Greater Accra"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (415) 555-1234",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+233 (415) 789-0123",
+            "fax": "+233 (415) 555-1235",
+            "emailAddress": "info@greensolutions.com",
+            "website": ""
+          },
+          "directors": [
+            {
+              "name": "Teddy Kwam",
+              "email": "teddy.kwam@greensolutions.com",
+              "phone": "+233241525678"
+            },
+            {
+              "name": "Nerrisa Mensah",
+              "email": "nerrisa.mens@greensolutions.com",
+              "phone": "+2332345456543"
+            }
+          ],
+          "secretaryType": "Individual",
+          "individualSecretary": {
+            "name": "Maxwell Darko",
+            "email": "maxdark@mailinator.com",
+            "phoneNumber": "+2332463435087"
+          },
+          "auditor": {
+            "licenceNumber": "AUD-32492343"
+          },
+          "subscribers": [
+            {
+              "name": "Mimi Hanson",
+              "email": "mimi.hans@greensolutions.com",
+              "phoneNumber": "+1 (415) 234-5678",
+              "subscriberType": "Individual Subscriber"
+            }
+          ],
+          "beneficialOwners": [
+            {
+              "boType": "Natural Person",
+              "name": "Samuel Laryea",
+              "email": "samlar@gmail.com",
+              "phoneNumber": "233507368112"
+            },
+            {
+              "boType": "Listed Company",
+              "name": "Babosa Inc",
+              "email": "bab@gmail.com",
+              "phoneNumber": "2335073684542"
+            }
+          ],
+          "regulatoryRequirements": {
+            "amountGuaranteed": "5000000",
+            "revenueEnvisaged": "200000",
+            "noOfEmployeesEnvisaged": "20",
+            "boNumber": "BO-23432"
+          }
+        },
+        {
+          "companyType": "Subsidiary Business Names",
+          "companyDetails": {
+            "parentcompanyName": "Kwaders PLC",
+            "registrationNumberOfParentCompany": "RGD-0001001",
+            "name": "Kazaks Ltd",
+            "sectors": ["Entertainment"],
+            "isicCode": [
+              {
+                "value": "5912",
+                "label": "Film editing"
+              }
+            ]
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-123456-78",
+            "houseNumber": "25",
+            "streetName": "Atta Mills Street",
+            "city": "Adabraka",
+            "district": "Ga West",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": false,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": false,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GH-123456-78",
+            "houseNumber": "25",
+            "streetName": "Main Street",
+            "city": "Habavana",
+            "district": "Okaikoi South",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-987654-32",
+            "houseNumber": "10",
+            "streetName": "Block Street",
+            "city": "Ashaiman",
+            "district": "Odododiodoo",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "123",
+            "town": "San Francisco",
+            "region": "California"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (415) 555-1234",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+233 (415) 789-0123",
+            "fax": "+233 (415) 555-1235",
+            "emailAddress": "info@greensolutions.com",
+            "website": ""
+          },
+          "regulatoryRequirements": {
+            "revenueEnvisaged": "500000",
+            "noOfEmployeesEnvisaged": "10"
+          }
+        },
+        {
+          "companyType": "Partnerships",
+          "companyDetails": {
+            "partnershipName": "Mirage Logistics",
+            "sectors": ["Transport/Aerospace"],
+            "isicCode": [
+              {
+                "value": "494",
+                "label": "Other transportation support activities (e.g., warehousing, freight forwarding)"
+              }
+            ],
+            "partners": [
+              {
+                "name": "Michael Blankson",
+                "email": "mblankson@gmail.com",
+                "phoneNumber": "2335073684542"
+              },
+              {
+                "name": "Prince Oware",
+                "email": "owarep@gmail.com",
+                "phoneNumber": "2335076684542"
+              }
+            ],
+            "natureOfBusiness": "Community and social outreach programs to help boys",
+            "dateOfCommencement": "2020-07-05"
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-123456-78",
+            "houseNumber": "25",
+            "streetName": "Konkam Cl",
+            "city": "Caprice",
+            "district": "Kokomlemle",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": false,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": false,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GH-123456-78",
+            "houseNumber": "25",
+            "streetName": "Main Street",
+            "city": "Habavana",
+            "district": "Okaikoi South",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-987654-32",
+            "houseNumber": "10",
+            "streetName": "Block Street",
+            "city": "Ashaiman",
+            "district": "Odododiodoo",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "123",
+            "town": "San Francisco",
+            "region": "California"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (415) 555-1234",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+233 (415) 789-0123",
+            "fax": "+233 (415) 555-1235",
+            "emailAddress": "info@greensolutions.com",
+            "website": ""
+          },
+          "particularsOfChargesOnPartnershipAssets": {
+            "descriptionOfAssets": "The Asset is a Work station to serve as server",
+            "dateOfBirth": "2020-04-21",
+            "amountOfCharge": 45000
+          },
+          "msmeDetails": {
+            "revenueEnvisaged": "50000",
+            "noOfEmployeesEnvisaged": "8",
+            "businessOperatingPermit": "BOP-02"
+          }
+        },
+        {
+          "companyType": "Public Company Limited By Guarantee",
+          "companyDetails": {
+            "constitution": "Standard Constitution",
+            "constitutionFile": null,
+            "name": "Axemen PLBG",
+            "endingWith": "PLBG",
+            "tin": "C0000001",
+            "sectors": ["Entertainment"],
+            "isicCode": [
+              {
+                "value": "9499",
+                "label": "Community and social advocacy"
+              }
+            ],
+            "natureOfBusiness": "Community and social outreach programs to help boys."
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-123456-78",
+            "houseNumber": "25",
+            "streetName": "Pele Str",
+            "city": "Pigfarm",
+            "district": "Ga East",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": false,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": false,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GH-123456-78",
+            "houseNumber": "25",
+            "streetName": "Main Street",
+            "city": "Habavana",
+            "district": "Okaikoi South",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-987654-32",
+            "houseNumber": "10",
+            "streetName": "Block Street",
+            "city": "Ashaiman",
+            "district": "Odododiodoo",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "123",
+            "town": "Banana Inn",
+            "region": "Greater Accra"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (415) 555-1234",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+233 (415) 789-0123",
+            "fax": "+233 (415) 555-1235",
+            "emailAddress": "info@greensolutions.com",
+            "website": ""
+          },
+          "directors": [
+            {
+              "name": "Bright Ako",
+              "email": "bright.ako@greensolutions.com",
+              "phone": "+233241525678"
+            },
+            {
+              "name": "Mabel Tay",
+              "email": "may.tay@greensolutions.com",
+              "phone": "+2332345456543"
+            }
+          ],
+          "secretaryType": "Individual",
+          "individualSecretary": {
+            "name": "Maxwell Darko",
+            "email": "maxdark@mailinator.com",
+            "phoneNumber": "+2332463435087"
+          },
+          "auditor": {
+            "licenceNumber": "AUD-32492343"
+          },
+          "subscribers": [
+            {
+              "name": "Mimi Hanson",
+              "email": "mimi.hans@greensolutions.com",
+              "phoneNumber": "+1 (415) 234-5678",
+              "subscriberType": "Individual Subscriber"
+            }
+          ],
+          "attestation": {
+            "role": "Director",
+            "name": "David Wang",
+            "email": "wang@greensolutions.com"
+          },
+          "beneficialOwners": [
+            {
+              "boType": "Natural Person",
+              "name": "Samuel Laryea",
+              "email": "samlar@gmail.com",
+              "phoneNumber": "233507368112"
+            },
+            {
+              "boType": "Listed Company",
+              "name": "Babosa Inc",
+              "email": "bab@gmail.com",
+              "phoneNumber": "2335073684542"
+            }
+          ],
+          "regulatoryRequirements": {
+            "amountGuaranteed": "5000000",
+            "revenueEnvisaged": "200000",
+            "noOfEmployeesEnvisaged": "20",
+            "boNumber": "BO-23432"
+          }
+        }
+      ]
+    },
+    {
+      "id": "user002",
+      "userType": "public",
+      "userDetails": {
+        "name": "Sheila Mensah",
+        "OTP": "07218",
+        "card": "GHA-834329-0",
+        "phoneNumber": "233244402142",
+        "email": "maxarthur@mailinator.com"
+      },
+      "reservedNames": [],
+      "queries": [],
+      "applications": [],
+      "entities": [
+        {
+          "companyType": "Business Name Registration",
+          "companyDetails": {
+            "companyName": "GreenLeaf Innovations",
+            "sectors": ["Renewable Energy", "Technology"],
+            "isicCodes": [
+              { "value": "3510", "label": "Electric power generation" },
+              { "value": "6201", "label": "Computer programming activities" }
+            ],
+            "natureOfBusiness": "Development of sustainable energy solutions",
+            "dateOfCommencement": "2023-07-15"
+          },
+          "registeredOfficeAddress": {
+            "digitalAddress": "GA-4321-98",
+            "houseNumber": "42",
+            "streetName": "Palm Avenue",
+            "city": "Kumasi",
+            "district": "Bantama",
+            "region": "Ashanti",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": false,
+          "hasOtherPlaceOfBussiness": true,
+          "sameRegisteredMemberAddress": false,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GA-9876-54",
+            "houseNumber": "15",
+            "streetName": "Maple Street",
+            "city": "Kumasi",
+            "district": "Suame",
+            "region": "Ashanti",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [
+            {
+              "digitalAddress": "GA-3456-78",
+              "houseNumber": "8",
+              "streetName": "Sunset Boulevard",
+              "city": "Cape Coast",
+              "district": "Cape Coast Metropolitan",
+              "region": "Central",
+              "country": "Ghana"
+            }
+          ],
+          "postalAddress": {
+            "type": "Post Office Box",
+            "number": "CC - 5678",
+            "town": "Cape Coast",
+            "region": "Central"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (0) 302 567890",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "+233 (27) 890 1234",
+            "mobileNumber_2": "",
+            "fax": "+233 (0) 302 567891",
+            "emailAddress": "contact@greenleaf.com",
+            "website": "https://www.greenleaf.com"
+          },
+          "proprietorDetails": {
+            "personalInformation": {
+              "title": "Ms",
+              "sex": "Female",
+              "firstName": "Evelyn",
+              "lastName": "Mensah",
+              "dateOfBirth": "1985-09-15",
+              "formerName": "Adjei",
+              "nationality": "Ghanaian",
+              "occupation": "Engineer",
+              "ghanaCard": "GHA-00056-78",
+              "tin": "P0000056"
+            },
+            "contact": {
+              "mobileNumber_1": "+233 (27) 890 1234",
+              "mobileNumber_2": "",
+              "fax": "+233 (0) 302 567891",
+              "emailAddress": "evelyn@greenleaf.com"
+            }
+          },
+          "proprietorAddress": {
+            "digitalAddress": "GA-4321-98",
+            "houseNumber": "42",
+            "streetName": "Palm Avenue",
+            "city": "Kumasi",
+            "district": "Bantama",
+            "region": "Ashanti",
+            "country": "Ghana"
+          },
+          "msmeDetails": {
+            "revenueEnvisaged": "500000",
+            "noOfEmployeesEnvisaged": "20",
+            "businessOperatingPermit": "BOP-02"
+          }
+        },
+        {
+          "companyType": "Public Company Limited By Guarantee",
+          "companyDetails": {
+            "constitution": "Custom Constitution",
+            "constitutionFile": null,
+            "name": "EcoWarriors PLBG",
+            "endingWith": "PLBG",
+            "tin": "C0000023",
+            "sectors": ["Environmental Protection"],
+            "isicCode": [
+              {
+                "value": "9499",
+                "label": "Community and social advocacy"
+              }
+            ],
+            "natureOfBusiness": "Environmental protection and sustainability advocacy."
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-876543-21",
+            "houseNumber": "50",
+            "streetName": "Green Lane",
+            "city": "Tema",
+            "district": "Tema West",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": true,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": true,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GH-876543-21",
+            "houseNumber": "50",
+            "streetName": "Green Lane",
+            "city": "Tema",
+            "district": "Tema West",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-123456-78",
+            "houseNumber": "22",
+            "streetName": "Eco Street",
+            "city": "Takoradi",
+            "district": "Sekondi-Takoradi",
+            "region": "Western",
+            "country": "Ghana"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "456",
+            "town": "Takoradi",
+            "region": "Western"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (302) 555-6789",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+233 (54) 789-0123",
+            "fax": "+233 (302) 555-6790",
+            "emailAddress": "contact@ecowarriors.com",
+            "website": "https://www.ecowarriors.com"
+          },
+          "directors": [
+            {
+              "name": "Kofi Mensah",
+              "email": "kofi.mensah@ecowarriors.com",
+              "phone": "+233201234567"
+            },
+            {
+              "name": "Ama Nyarko",
+              "email": "ama.nyarko@ecowarriors.com",
+              "phone": "+233205678901"
+            }
+          ],
+          "secretaryType": "Individual",
+          "individualSecretary": {
+            "name": "Kwame Aboagye",
+            "email": "kwameaboagye@mailinator.com",
+            "phoneNumber": "+233246987654"
+          },
+          "auditor": {
+            "licenceNumber": "AUD-12983476"
+          },
+          "subscribers": [
+            {
+              "name": "Joyce Annan",
+              "email": "joyce.annan@ecowarriors.com",
+              "phoneNumber": "+1 (415) 789-1234",
+              "subscriberType": "Individual Subscriber"
+            }
+          ],
+          "attestation": {
+            "role": "Director",
+            "name": "Michael Osei",
+            "email": "michael.osei@ecowarriors.com"
+          },
+          "beneficialOwners": [
+            {
+              "boType": "Natural Person",
+              "name": "Naomi Boateng",
+              "email": "naomiboateng@gmail.com",
+              "phoneNumber": "+233506789012"
+            },
+            {
+              "boType": "Listed Company",
+              "name": "GreenTech Ltd",
+              "email": "greentech@gmail.com",
+              "phoneNumber": "+233507345678"
+            }
+          ],
+          "regulatoryRequirements": {
+            "amountGuaranteed": "6000000",
+            "revenueEnvisaged": "300000",
+            "noOfEmployeesEnvisaged": "25",
+            "boNumber": "BO-34567"
+          }
+        },
+        {
+          "companyType": "Public Company Limited By Shares",
+          "companyDetails": {
+            "constitution": "Custom Constitution",
+            "constitutionFile": null,
+            "name": "StarTech PLC",
+            "endingWith": "PLC",
+            "sectors": ["Technology"],
+            "isicCode": [
+              {
+                "value": "6202",
+                "label": "Computer consultancy and computer facilities management activities"
+              }
+            ],
+            "natureOfBusiness": "Development and management of technology solutions and consulting services."
+          },
+          "officeAddress": {
+            "digitalAddress": "GHA-876543-21",
+            "houseNumber": "78",
+            "streetName": "Innovation Street",
+            "city": "East Legon",
+            "district": "Ayawaso West",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "sameAsRegisteredAddress": true,
+          "hasOtherPlaceOfBussiness": false,
+          "sameRegisteredMemberAddress": true,
+          "principalPlaceOfBusiness": {
+            "digitalAddress": "GH-876543-21",
+            "houseNumber": "78",
+            "streetName": "Innovation Street",
+            "city": "East Legon",
+            "district": "Ayawaso West",
+            "region": "Greater Accra",
+            "country": "Ghana"
+          },
+          "otherPlaceOfBusiness": [],
+          "registerOfMembersAddress": {
+            "digitalAddress": "US-654321-98",
+            "houseNumber": "15",
+            "streetName": "Tech Lane",
+            "city": "Kumasi",
+            "district": "Bantama",
+            "region": "Ashanti",
+            "country": "Ghana"
+          },
+          "postalAddress": {
+            "type": "PMB",
+            "number": "456",
+            "town": "Techiman",
+            "region": "Bono East"
+          },
+          "companyContact": {
+            "phoneNumber_1": "+233 (302) 789-1234",
+            "phoneNumber_2": "",
+            "mobileNumber_1": "",
+            "mobileNumber_2": "+233 (54) 789-1234",
+            "fax": "+233 (302) 789-1235",
+            "emailAddress": "contact@startech.com",
+            "website": "https://www.startech.com"
+          },
+          "directors": [
+            {
+              "name": "Kwame Anane",
+              "email": "kwame.anane@startech.com",
+              "phone": "+233202345678"
+            },
+            {
+              "name": "Akosua Owusu",
+              "email": "akosua.owusu@startech.com",
+              "phone": "+233207654321"
+            }
+          ],
+          "secretaryType": "Individual",
+          "individualSecretary": {
+            "name": "Ama Serwaa",
+            "email": "amaserwaa@mailinator.com",
+            "phoneNumber": "+233246789012"
+          },
+          "attestation": {
+            "role": "Director",
+            "name": "John Doe"
+          },
+          "auditor": {
+            "licenceNumber": "AUD-56789012"
+          },
+          "sharesAndCapital": {
+            "authorizedShares": "2000000",
+            "statedCapital": "10000000",
+            "authorizedSharesOfEachClass": {
+              "equityShares": "1500000",
+              "preferenceShares": "500000"
+            },
+            "issuedSharesOfEachClass": {
+              "equityShares": "1200000",
+              "preferenceShares": "400000"
+            },
+            "amountPaidInCashOfEachClass": {
+              "equityShares": "6000000",
+              "preferenceShares": "2000000"
+            },
+            "amountPaidOtherwiseThanInCashOfEachClass": {
+              "equityShares": "1000000",
+              "preferenceShares": "500000"
+            },
+            "amountRemainingToBePaidOnEachClass": {
+              "equityShares": "2000000",
+              "preferenceShares": "500000"
+            }
+          },
+          "subscribers": [
+            {
+              "name": "Alex Smith",
+              "email": "alex.smith@startech.com",
+              "phoneNumber": "+1 (415) 789-5678",
+              "subscriberType": "Individual Subscriber"
+            }
+          ],
+          "beneficialOwners": [
+            {
+              "boType": "Natural Person",
+              "name": "John Kofi",
+              "email": "john.kofi@gmail.com",
+              "phoneNumber": "+233507890123"
+            },
+            {
+              "boType": "Listed Company",
+              "name": "TechCorp Ltd",
+              "email": "techcorp@gmail.com",
+              "phoneNumber": "+233507654321"
+            }
+          ],
+          "regulatoryRequirements": {
+            "revenueEnvisaged": "1000000",
+            "noOfEmployeesEnvisaged": "50",
+            "boNumber": "BO-45678"
+          }
+        }
+      ]
+    }
+  ]
+}
